@@ -57,6 +57,7 @@ $language = array(
 	'loading' => 'Lädt...',
 	'report' => 'Melden',
 	'page_loaded_in' => 'Seite wurde in {x} Sekunden geladen.', // Don't replace {x}, time unit is seconds
+	'page_loaded_in' => 'Seite {x}', // Don't replace {x}
 	
 	/* 
 	 *  Navbar
