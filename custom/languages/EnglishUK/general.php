@@ -49,6 +49,7 @@ $language = array(
 	'loading' => 'Loading...',
 	'report' => 'Report',
 	'page_loaded_in' => 'Page loaded in {x}s', // Don't replace {x}, time unit is seconds
+	'page_x' => 'Seite {x}', // Don't replace {x}
 	
 	/* 
 	 *  Navbar
