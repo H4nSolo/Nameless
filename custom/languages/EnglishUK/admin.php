@@ -134,7 +134,14 @@ $language = array(
     'enable_query' => 'Enable query?',
     'server_query_port' => 'Server Query Port',
 	'server_query_port_help' => 'This is the query.port option in your server\'s server.properties file, provided the enable-query option in the same file is set to true.',
-
+	'minecraft_api' => 'Minecraft API',
+	'minecraft_api_enable' => 'Minecraft API activate?',
+	'minecraft_api_renew' => 'Renew Minecraft API Key',
+	'minecraft_api_renew_confirm' => 'Are you sure to renew Minecraft API Key?',
+	'minecraft_api_renew_button' => 'Renew API Key',
+	'minecraft_api_show_button' => 'Show API Key',
+	'minecraft_api_show' => 'Show Minecraft API Key',
+	
 	// Modules
 	'modules_installed_successfully' => 'Any new modules have been installed successfully.',
 	'enabled' => 'Enabled',
